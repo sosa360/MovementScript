@@ -1,4 +1,6 @@
-// coded by eddy :)
+// Goku Black was here...
+
+// Feel free to edit this code if u like, its very basic anyway.
 
 using System.Collections;
 using System.Collections.Generic;
